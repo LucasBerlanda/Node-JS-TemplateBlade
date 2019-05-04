@@ -1,5 +1,5 @@
 @extends('templates.template')
 
-@section('content')
+@section('cabecalho')
     Cadastro Nova UF
 @stop
